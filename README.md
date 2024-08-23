@@ -27,7 +27,7 @@ I didn't implement the script to automatically join every game cause I was lazy 
 
 
 
-I'm not responsible in anyway if you get banned from a room or the entier game, this script is for educationnal purpose only.
+I'm not responsible in any way if you get banned from a room or the entier game, this script is for educationnal purpose only.
 
 If you have some python knowledge feel free to modify the scirpt as you like, it's not really good anyway. 
 
